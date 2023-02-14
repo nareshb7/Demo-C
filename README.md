@@ -1,13 +1,11 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
-<h1 align="center"><b>Hi , I'm Rajitha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center"><b>Hi , I'm Naresh Baleboina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Passinoate+React+JS+developeer...&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Rajitha-Kilaru&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Rajitha-Kilaru" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=nareshb7&label=Profile%20views&color=0e75b6&style=flat"
+    alt="nareshb7" /> 
   </p>
 
 ##  **About me**
@@ -17,7 +15,7 @@
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently working as React JS Developer.
-- Personal website [link](https://www.Rajitha-Kilaru.github.io)
+- Personal website [link](https://www.nareshb7.github.io)
 
 <br><br>
 
@@ -62,18 +60,18 @@
  
 <hr>
 <p align="center">
-<a href="https://github.com/Rajitha-Kilaru">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajitha-Kilaru&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/nareshb7">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nareshb7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nareshb7&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
 <p align='center'>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajitha-Kilaru&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshb7&theme=gruvbox&hide_border=true" />
 </p>
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Rajitha-Kilaru&theme=juicyfresh&no-bg=true" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=nareshb7&theme=juicyfresh&no-bg=true" /> 
 <br>
 <hr>
 
@@ -81,6 +79,6 @@
 
 <h1>Thank You! 🤵 </h1>
 
-Credits: [Rajitha Chowdary](https://github.com/Rajitha-Kailaru)
+Credits: [Naresh Baleboina](https://nareshb7.github.io)
 
 Last Edited on: 12/02/2023
